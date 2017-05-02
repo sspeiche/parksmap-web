@@ -5,7 +5,7 @@
     "name": "parksmap-web-pipeline"
   },
   "labels": {
-    "application": "parksmap-web-pipeline",
+    "app": "parksmap-web-pipeline",
     "createdBy": "parksmap-web-template"
   },
   "parameters": [
@@ -20,7 +20,7 @@
       "description": "Git source URI for application",
       "displayName": "Git source repository",
       "name": "GIT_URI",
-      "value": "https://github.com/openshift-roadshow/mlb-parks.git",
+      "value": "https://github.com/sspeiche/parksmap-web.git",
       "required": true
     },
     {

@@ -10,7 +10,7 @@
     }
   },
   "labels": {
-    "application": "parksmap-web",
+    "app": "parksmap-web",
     "createdBy": "parksmap-web-template"
   },
   "parameters": [
